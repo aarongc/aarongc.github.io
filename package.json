@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/aarongc/anakin#readme",
   "devDependencies": {
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.20.1",
     "webpack": "^3.10.0"
   },
   "dependencies": {
